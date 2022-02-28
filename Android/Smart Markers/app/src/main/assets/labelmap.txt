@@ -1,0 +1,6 @@
+Connect ethernet cables
+Powered off
+Internet status off
+Ethernet cables connected
+Powered on
+Connected to internet
